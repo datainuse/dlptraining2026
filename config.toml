@@ -2,7 +2,7 @@
 baseURL = "http://tec.myfortinet.com/"
 canonifyURLs = false
 relativeURLs = true
-languageCode = "en-US"
+LanguageCode = "en-US"
 defaultContentLanguage = "en"
 theme = ["hugo-theme-relearn"]
 metaDataFormat = "yaml"
@@ -12,11 +12,11 @@ enableEmoji = true
 
 ################################ BEGIN EDITING ################################
 # Display Title of the project
-title = "Hugo for Fortinet Example"
+title = "FortiDLP and Insider Risk Protection"
 
 [params]
 # Author of the site, will be used in meta information
-author.name = "Your name"
+author.name = "Ken Roberts, Jesse Alverson and Jason Graun"
 
 # Select a color theme.
 # special
@@ -33,9 +33,9 @@ themeVariant = "Xperts2026"
 # themeVariant = "UseCase"
 
 # The banner text under Fortinet logo on the top left of the project. Better to be short.
-logoBannerText = "How to Create a TEC Document"
+logoBannerText = "FortiDLP"
 # Small text under the title
-logoBannerSubText = "Internal Only"
+logoBannerSubText = "FortiDLP"
 ################################# END EDITING #################################
 
 # Shows a checkmark for visited pages on the menu
