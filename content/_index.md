@@ -6,6 +6,19 @@ archetype: "home"
 
 # <p style="text-align: center;">FortiDLP</p>
 
+{{< quizdown >}}
+
+## CTF Game - pre
+
+I would rate my knowledge of endpoint DLP as:
+
+- [ ] Noob (what is DLP)?
+- [ ] Somewhat knowledgeable
+- [ ] Very knowledgeable
+- [ ] I should be teaching the class!
+
+{{< /quizdown >}}
+
 ## Next-Gen DLP and Insider Risk Management Solution to Anticipate and Prevent Data Theft
 
 ### Overview: securing data from insider threats and risks
