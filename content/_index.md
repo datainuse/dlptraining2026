@@ -7,7 +7,13 @@ archetype: "home"
 # <p style="text-align: center;">FortiDLP</p>
 
 {{< quizdown >}}
-
+---
+primaryColor: '#2563eb'      # Main accent (buttons, selected answers, progress bar)
+secondaryColor: '#f1f5f9'   # Background of answer options
+textColor: '#1e293b'        # Text color
+shuffleQuestions: false
+shuffleAnswers: true
+---
 ## CTF Game - pre
 
 I would rate my knowledge of endpoint DLP as:

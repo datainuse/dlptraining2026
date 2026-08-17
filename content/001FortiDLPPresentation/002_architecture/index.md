@@ -13,3 +13,43 @@ weight: 2
 {{< figure src="architecture3.jpg" alt="architecture3" >}}
 
 {{< figure src="architecture4.jpg" alt="architecture4" >}}
+
+{{< quizdown >}}
+---
+primaryColor: '#2563eb'
+secondaryColor: '#f1f5f9'
+textColor: '#1e293b'
+shuffleQuestions: false
+shuffleAnswers: true
+---
+
+## FortiDLP is available as a:
+- [ ] On-prem deployment
+- [x] Cloud hosted deployment
+- [ ] Hybrid deployment
+
+## FortiDLP supports browser extensions in all browsers EXCEPT:
+- [ ] Chrome
+- [ ] Edge
+- [ ] Safari
+- [x] Opera
+- [ ] Brave
+
+## FortiDLP provides visibility into email activity through:
+- [x] Add-in/Plug-in deployed to the Outlook client
+- [ ] Service installed to on-prem Exchange server
+- [ ] API connectivity into O365
+
+## FortiDLP provides visibility into the following cloud storage repositories (choose 2):
+- [x] Google Drive
+- [ ] Box
+- [ ] Dropbox
+- [x] Sharepoint/OneDrive
+
+## FortiDLP can be installed on which of the below operating systems (choose 3)?
+- [x] Windows
+- [x] MacOS
+- [ ] iOS
+- [x] Linux
+- [ ] Android
+{{< /quizdown >}}

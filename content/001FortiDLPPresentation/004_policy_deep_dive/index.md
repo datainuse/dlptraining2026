@@ -25,3 +25,34 @@ weight: 4
 {{< figure src="policyDeepDive09.jpg" alt="policyDeepDive9" >}}
 
 {{< figure src="policyDeepDive10.jpg" alt="policyDeepDive10" >}}
+
+{{< quizdown >}}
+---
+primaryColor: '#2563eb'
+secondaryColor: '#f1f5f9'
+textColor: '#1e293b'
+shuffleQuestions: false
+shuffleAnswers: true
+---
+
+## FortiDLP offers pre-defined policy wizards for all standards below EXCEPT:
+- [ ] GDPR
+- [ ] ISO 27001
+- [x] PEBKAC 67
+- [ ] PCI
+
+## What are the 3 steps for configuring MOST policy templates:
+- [x] Define action (what should happen when policy is violated)
+- [x] Identify what data is considered sensitive
+- [ ] Determine the color of the text in the warning prompt
+- [x] Define where sensitive data is allowed/not allowed to go
+
+## In a content inspection policy, "Match any" is a logical:
+- [ ] And
+- [x] Or
+- [ ] XOR
+
+## True or False - You can modify out of the box policy assets:
+- [ ] True
+- [x] False
+{{< /quizdown >}}
