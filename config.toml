@@ -67,9 +67,27 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 version = "v0.0.0"
 
 [[menu.shortcuts]]
+pre = "<i class='fas fa-link'></i> "
+name = "FortiDLP Product Page"
+url = 'https://www.fortinet.com/products/fortidlp'
+weight = 1
+
+[[menu.shortcuts]]
+pre = "<i class='fas fa-link'></i> "
+name = "FortiDLP Docs Page"
+url = 'https://docs.fortinet.com/product/fortidlp'
+weight = 2
+
+[[menu.shortcuts]]
+pre = "<i class='fas fa-globe'></i> "
+name = "FortiDLP Testing Tool"
+url = 'https://dlptest.ai/'
+weight = 3
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-print'></i> Single Page View (for printing)"
 url = "allpages.html"
-weight = 1
+weight = 4
 
 [outputs]
 home = ["HTML", "RSS"]
