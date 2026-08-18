@@ -46,7 +46,7 @@ shuffleAnswers: true
 - [x] Data in use
 - [ ] Data in motion
 
-## The purpose of Secure Data Flow is to:
+## The purpose of Secure Data Flow is to? (Chose 1)
 - [ ] Protect data based on the content contained within a file
 - [ ] Protect data based on who created a file
 - [x] Protect data based on its origin

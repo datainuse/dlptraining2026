@@ -23,30 +23,30 @@ shuffleQuestions: false
 shuffleAnswers: true
 ---
 
-## FortiDLP is available as a:
+## FortiDLP is available as a (choose 1)
 - [ ] On-prem deployment
 - [x] Cloud hosted deployment
 - [ ] Hybrid deployment
 
-## FortiDLP supports browser extensions in all browsers EXCEPT:
+## FortiDLP supports browser extensions in all browsers EXCEPT? (choose 1)
 - [ ] Chrome
 - [ ] Edge
 - [ ] Safari
 - [x] Opera
 - [ ] Brave
 
-## FortiDLP provides visibility into email activity through:
+## FortiDLP provides visibility into email activity through? (chose 1)
 - [x] Add-in/Plug-in deployed to the Outlook client
 - [ ] Service installed to on-prem Exchange server
 - [ ] API connectivity into O365
 
-## FortiDLP provides visibility into the following cloud storage repositories (choose 2):
+## FortiDLP provides visibility into the following cloud storage repositories? (choose 3)
 - [x] Google Drive
-- [ ] Box
+- [x] Box
 - [ ] Dropbox
 - [x] Sharepoint/OneDrive
 
-## FortiDLP can be installed on which of the below operating systems (choose 3)?
+## FortiDLP can be installed on which of the below operating systems? (choose 3)
 - [x] Windows
 - [x] MacOS
 - [ ] iOS
