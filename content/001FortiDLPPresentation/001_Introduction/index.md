@@ -24,6 +24,12 @@ weight: 1
 
 {{< figure src="introduction_9.jpg" alt="introduction_9" >}}
 
+{{< figure src="introduction_10.jpg" alt="introduction_10" >}}
+
+{{< figure src="introduction_11.jpg" alt="introduction_11" >}}
+
+{{< figure src="introduction_12.jpg" alt="introduction_12" >}}
+
 {{< quizdown >}}
 ---
 primaryColor: '#2563eb'      # Main accent (buttons, selected answers, progress bar)

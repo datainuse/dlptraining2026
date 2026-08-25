@@ -1,10 +1,8 @@
 ---
 title: "Policy Deep Dive (30 minutes)"
 linkTitle: "Policy Deep Dive"
-weight: 4
+weight: 5
 ---
-
-{{< figure src="title.jpg" alt="title" >}}
 
 {{< figure src="policyDeepDive01.jpg" alt="policyDeepDive1" >}}
 
@@ -25,6 +23,8 @@ weight: 4
 {{< figure src="policyDeepDive09.jpg" alt="policyDeepDive9" >}}
 
 {{< figure src="policyDeepDive10.jpg" alt="policyDeepDive10" >}}
+
+{{< figure src="policyDeepDive11.jpg" alt="policyDeepDive11" >}}
 
 {{< quizdown >}}
 ---
