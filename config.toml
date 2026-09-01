@@ -1,5 +1,5 @@
 # don't change the following 8 lines
-baseURL = "https://datainuse.github.io/dlptraining2026/"
+baseURL = "http://tec.myfortinet.com/"
 canonifyURLs = false
 relativeURLs = true
 LanguageCode = "en-US"
